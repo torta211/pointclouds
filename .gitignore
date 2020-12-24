@@ -1,0 +1,6 @@
+.vs/*
+out/build/x64-Debug/*
+!out/build/x64-Debug/pointclouds.exe
+!out/build/x64-Debug/input/
+!out/build/x64-Debug/output/
+ 
